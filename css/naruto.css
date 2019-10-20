@@ -1,3 +1,22 @@
-H1{
-    color: darkred 
+body{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    background-color: #b8860b;
+    text-align: center;
+    padding-top: 50px; 
+    padding-bottom: 50px;
+}
+
+Header h1{
+    color: white;
+    
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid black;
 }
