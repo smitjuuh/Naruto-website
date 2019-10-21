@@ -11,11 +11,12 @@ header{
 }
 
 h1, h2{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Baloo Bhai', cursive;
 }
 
 Header h1{
     color: white;
+    font-size: 50px;
     
 }
 
@@ -24,3 +25,20 @@ header img{
     width: 300px;
     border: 10px solid black;
 }
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 35px;
+    color: #b8860b;
+}
+
+
