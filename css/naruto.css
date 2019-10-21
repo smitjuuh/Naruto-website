@@ -4,7 +4,7 @@ body{
     font-size: 20px;
     line-height: 30px;
 }
-
+/* header styles*/
 header{
     background-color: #b8860b;
     text-align: center;
@@ -27,11 +27,13 @@ header img{
     width: 300px;
     border: 10px solid black;
 }
-
+/* main styles*/
 main{
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    background: rgb(153,153,153);
+    background: radial-gradient(circle, rgba(153,153,153,1) 0%, rgba(184,134,11,1) 100%);
 }
 
 main img{
@@ -49,7 +51,7 @@ a{
 a:hover{
     color: black;
 }
-
+/* footer styles*/
 Footer{
     background-color: #b8860b;
     text-align: center;
