@@ -1,6 +1,8 @@
 body{
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
 }
 
 header{
@@ -29,7 +31,7 @@ header img{
 main{
     max-width: 800px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px;
 }
 
 main img{
@@ -37,8 +39,34 @@ main img{
 }
 
 h2{
-    font-size: 35px;
+    font-size: 30px;
     color: #b8860b;
+    margin: 40px 0 10px; 
+}
+a{
+ color: #b8860b;   
+}
+a:hover{
+    color: black;
 }
 
+Footer{
+    background-color: #b8860b;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+footer p{
+    margin: 0;
+}
+
+footer a{
+    color: white;
+}
+
+p.Caption{
+    color: #999999;
+    font-style: italics;
+    margin-top: 0px;
+}
 
